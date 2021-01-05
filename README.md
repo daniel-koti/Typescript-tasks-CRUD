@@ -12,7 +12,6 @@ Execute ```npm install``` nas pastas backend e frontend, para instalar as depend
 Rode ```npm start``` nas pastas backend e frontend para utilizar a versão web. Acesse via **localhost:3000**.
 
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## 🛠️ Construído com
 
