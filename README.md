@@ -2,16 +2,6 @@
 
 Nesse projecto foi desenvolvido uma API que fornece informações sobre uma lista de tarefas, e uma interface que permite ao usuário Criar, alterar e deletar uma tarefa.
 
-### 📋 Pré-requisitos
-
-Nodejs
-Browser
-Terminal
-Postgres
-
-```
-Dar exemplos
-```
 
 ### 🔧 Instalação
 
